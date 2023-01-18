@@ -8,7 +8,11 @@ import Home from '../Home/Home.jsx';
 function App() {
   return (
     <div className="App">
-      <h1>SPAs!</h1>
+      <h1>SPAssssssss!</h1>
+      {/* consume components here*/}
+      <Home />
+      <Animals />
+      <Plants />
     </div>
   );
 }
